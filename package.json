@@ -1,0 +1,24 @@
+{
+  "name": "resturantapp",
+  "version": "1.0.0",
+  "description": "this is a resturant App",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akankshaagrawal13/ResturantApp.git"
+  },
+  "author": "Akanksha Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akankshaagrawal13/ResturantApp/issues"
+  },
+  "homepage": "https://github.com/Akankshaagrawal13/ResturantApp#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
